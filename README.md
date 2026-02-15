@@ -28,4 +28,4 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-torch
+
